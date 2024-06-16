@@ -1,4 +1,4 @@
-This script allows you to send audio files to cameras with a feedback channel based on XM. To start, you must provide the following information:
+This script allows you to send audio files to cameras with an XM-based feedback channel. First, you need to put the following information in the main.py file and then run it:
 <br>
 Example:<br>
 <br>
